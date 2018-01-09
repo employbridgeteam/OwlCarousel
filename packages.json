@@ -1,1 +1,8 @@
-
+{
+  "name": "employbridge.oae.web",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "jquery": ">1.9.1"
+  }
+}
